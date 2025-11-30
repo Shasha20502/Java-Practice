@@ -9,16 +9,17 @@ Output → "ahsikna"
  */
 
 public class ReverseString {
-    public static void main(String[] args) {
-
-        String str = "ankisha";
+    public static void main() {
+        String str = "Ankisha";
         String rev = "";
-
-        for(int i=str.length()-1; i>=0; i--){
-            rev += str.charAt(i);
+        for (int i = str.length()-1; i >= 0 ; i--) {
+            rev = rev + str.charAt(i);
         }
+        System.out.println(rev);
 
-        System.out.println("Reversed: " + rev);
+        StringBuilder strrev = new StringBuilder(str);
+        strrev.reverse().toString();
+        System.out.println(strrev);
     }
 }
 
