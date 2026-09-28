@@ -1,5 +1,5 @@
 # Java-Practice
-✨ 100 Days Java Coding | 300+ Programs | OOPs | Collections | Notes | Interview Prep  Daily Java practice + concepts + problem solving. Goal → Strong fundamentals + automation-ready coding skills.
+✨ 100 Days Java Coding | 300+ Programs | OOPs | Collections | Notes | Interview Prep  Daily Java practice + concepts + problem solving. Goal → Strong fundamentals.
 
 # 📘 Java Practice Repository — 100 Days Java Journey 🚀
 
@@ -12,7 +12,6 @@ This repository will include:
 ✔ Core concepts + notes for revision  
 ✔ Logical thinking development  
 ✔ Coding habits & discipline improvement  
-✔ Foundation to build strong Automation frameworks
 
 ---
 
@@ -72,15 +71,6 @@ Topic-wise explanation + examples for:
 - Helps in interviews (coding + theory)
 - Improves automation scripting logic
 - Makes your GitHub profile **stronger & more professional**
-
----
-
-## 🔗 Related Automation Repositories
-
-| Skill | Repository |
-|------|------------|
-| Selenium UI Automation | *(Add link)* |
-| API Automation (RestAssured) | *(Add link)* |
 
 ---
 
